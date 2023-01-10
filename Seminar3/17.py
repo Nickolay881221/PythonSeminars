@@ -9,3 +9,4 @@ for num in range(0,n):
 print (m)
 a = set(m)
 print (a)
+print(f"количество уникальных элементов > {len(a)}")
