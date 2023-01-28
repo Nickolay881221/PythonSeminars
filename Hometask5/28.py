@@ -7,7 +7,7 @@ b = int(input("введите целое неотрицательное числ
 
 def rekursiv_function_sum(a, b):
     if b>=1:
-        return 1 + rekursiv_function_sum(a, b-1)
+        return rekursiv_function_sum(a+1, b-1)
     else:
         return a
 
