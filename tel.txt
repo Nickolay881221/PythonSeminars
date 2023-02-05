@@ -1,0 +1,4 @@
+Ivanov,Ivan,Ivanovich,+71254785414
+Petrov,Semyon,Semenovich,+73515153545
+Sidorov,Alexander,Egorovich,+74616535434
+Chingachkuk,Aron,Moiseevich,+79999999999
